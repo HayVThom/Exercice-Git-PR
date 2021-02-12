@@ -1,1 +1,1 @@
-# Exercice-Git-PR
+# Exercise-Git-PR
